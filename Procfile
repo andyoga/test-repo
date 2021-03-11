@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run br_model.py
+web: sh setup.sh && streamlit run gbr_model.py
