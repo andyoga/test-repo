@@ -170,7 +170,6 @@ pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.1
 querystring-parser==1.2.4
-ray==1.2.0
 redis==3.5.3
 regex==2020.6.8
 requests==2.24.0
