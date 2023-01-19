@@ -184,7 +184,6 @@ scikit-plot==0.3.7
 seaborn==0.10.1
 semver==2.13.0
 Send2Trash==1.5.0
-setuptools==47.3.0.post20200616
 shap==0.32.1
 six==1.15.0
 smart-open==2.0.0
