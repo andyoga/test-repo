@@ -3,6 +3,8 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
+st.set_page_config(layout="wide")
+
 model = load_model('best_model')
 
 def predict(model, input_df):
