@@ -46,7 +46,7 @@ cycler==0.10.0
 cymem==2.0.3
 Cython==0.29.14
 databricks-cli==0.14.1
-dataclasses==0.8
+dataclasses==0.6
 datefinder==0.7.0
 DateTime==4.3
 decorator==4.4.2
